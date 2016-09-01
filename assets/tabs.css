@@ -1,0 +1,15 @@
+#payweb-donations-tabs {
+	margin: 0;
+}
+
+#payweb-donations-tabs li {
+	cursor: pointer;
+}
+
+#payweb-donations-tabs-content > div {
+	display: none;
+}
+
+#payweb-donations-tabs-content > #payweb-donations-tab-content-1 {
+	display: block;
+}
